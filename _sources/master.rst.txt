@@ -10,6 +10,7 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
+   Home <index>
    About Richard <About/index>
    Research <Research/index>
    Presentations <Presentations/index>

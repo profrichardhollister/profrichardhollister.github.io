@@ -53,7 +53,7 @@ Publications
 
 | For abstracts, click `here <Research/index.html>`_
 #. "Van Dooren's index sum theorem and rational matrices with prescribed structural data" [with L. Anguas, F. Dopico, and D.S. Mackey], *SIAM J. on Matrix Analysis and Applications*, Vol. 40, No. 2, pp. 720-738, 2019.
-#. "Quasi-triangularizations of polynomial matrices over an arbitrary field" [with L. Anguas, F. Dopico, and D.S. Mackey], *in preparation*.
+#. "Quasi-triangularizations of polynomial matrices over an arbitrary field" [with L. Anguas, F. Dopico, and D.S. Mackey], *submitted for publication*.
 #. "Transparent matrix polynomials with prescribed eigenstructure" [with D.S. Mackey], *in preparation*.
 
 Presentations
