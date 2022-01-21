@@ -1,4 +1,18 @@
+.. _contents:
 
-================================================
-Welcome to the webpage of Dr. Richard Hollister.
-================================================
+Table of contents
+=========================
+
+Contents:
+~~~~~~~~~~~~
+
+
+.. toctree::
+   :maxdepth: 1
+
+   Home <index>
+   About Richard <About/index>
+   Research <Research/index>
+   Presentations <Presentations/index>
+   Courses <Courses/index>
+   
