@@ -3,7 +3,31 @@
 Presentations
 =============
 
-*Inverse problems for polynomial and rational matrices* `slides <../_static/ICIAM-2019-symposium-talk-RH.pdf>`_
+*Block triangularizing regular polynomial matrices*
+
+Planned for July 11 2022 during the SIAM Annual Meeting, this was going to be a talk about a recent paper in 
+collaboration with Luis Miguel Anguas, Froilán Dopico, and Steve Mackey.  The slides cover the general process
+we developed for constructing a block triangular matrix polynomial of a given degree with the same structural
+data as a given regular matrix polynomial over an arbitrary field.  The talk was cancelled at the last minute
+due to illness.
+
+*Majorization and triangular matrix polynomials with prescribed diagonal* `slides <../_Static/majorization-mat-poly.pdf>`_
+
+Given during the annual meeting of the Internaional Linear Algebra Society, this talk reminds the community
+of the connection between the classical notion of majorization and the possible diagonals of triangular 
+matrix polynomials.  I also outline a process for constructing a triangular matrix polynomial with desired
+digaonal and given structural data.  This work is in collaboration with Luis Miguel Anguas, Froilán Dopico, 
+and Steve Mackey.
+
+*Inverse problems for polynomial and rational structural data* `slides <../_Static/HHXXI-Poly-Inv-Prob.pdf>`_
+
+I was invited to give this talk at the 21st Householder Symposium on Numerical Linear Algebra.  Based on the
+first chapter of my 2020 PhD thesis, the focus of this talk is on a solution to the inverse problem for the 
+structural data of strictly regular matrix polynomials.  This talk outlines the basic constructions and 
+building blocks used in my thesis to solve the inverse problem in a way that allows the original structural
+data to be recovered without doing any numerical computations.
+
+*Inverse problems for polynomial and rational matrices* `slides <../_Static/ICIAM-2019-symposium-talk-RH.pdf>`_
 
 This was an invited talk for the Nonlinear and Multiparamter Eigenvalue Problems mini-symposium at the 2019
 International Congress on Industrial and Applied Mathematics.  The talk outlines the procedures I developed

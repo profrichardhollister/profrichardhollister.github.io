@@ -6,7 +6,7 @@ Courses
 Current Courses
 ---------------
 
-*MTH 337 - Intro to Scientific and Mathematical Computing*  `website <https://rahollis.github.io>_`
+*MTH 337 - Intro to Scientific and Mathematical Computing*  `website <https://rahollis.github.io>`_
 
 This is a project based course that introduces
 mathematics students to the tools and techniques used in scientific and mathematical computing.  The course
@@ -14,14 +14,22 @@ uses Python as a platform and focuses on about 8 independent projects over the s
 encouraged to work in groups, but each student must turn in their own original project report as a Jupyter
 notebook.
 
+*MTH 309 - Intro to Linear Algebra* `syllabus <../_static/syllabus-309-f22.pdf>`_
+
+This is a standard introductory course in linear algebra with an emphasis on active learning and 
+fostering student success.  To get students to actively engage with the material, I created activities
+for each topic to be completed by students in groups during class.  This semester also saw a switch from
+the typical exam format (2 midterms and a final) to a proficiency format, the details of which can be found
+in the syllabus.
+
+Previous Courses
+----------------
+
 *MTH 420 - Advanced Linear Algebra* `syllabus <../_static/syllabus-420-s22.pdf>`_
 
 This course is meant to be a second course in linear algbrea for undergraduates and focuses on theory 
 proof.  Advanced topics include matrix factorizations, equivalence relations and canonical representations,
 quadratic forms and positive (semi-) definite matrices, and select topics from numerical linear algebra.
-
-Previous Courses
-----------------
 
 *MTH 309 - Intro to Linear Algebra* `syllabus <../_static/syllabus-309-f21.pdf>`_
 

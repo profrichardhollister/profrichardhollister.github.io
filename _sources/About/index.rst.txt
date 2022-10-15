@@ -63,6 +63,9 @@ Presentations
 #. "Inverse problems for polynomial and rational matrices", *Mini-symposium on nonlinear and multiparameter eigenvalue problems*, International Congress on Industrial and Applied Mathematics, Valencia Spain, July 16 2019.
 
 | *Professional Conferences*
+#. "Block triangularizing matrix polynomials", *Contributed talk*, Annual Conference of the Society for Industrial and Applied Mathematics, Pittsburg PA, July 11 2022.
+#. "Majorization and triangular matrix polynomials with prescribed diagonal", *Contributed talk*, Annual Conference of the International Linear Algebra Society, Galway Ireland, June 20 2022.
+#. "Inverse problems for polynomial and rational structural data", *Contributed talk*, Householder Symposium on Numerical Linear Algebra XXI, Selva di Fasano Italy, June 14 2022.
 #. "Recent advances on an inverse problem for rational matrices", *Contributed talk*, International Congress on Industrial and Applied Mathematics, Valencia Spain, July 15 2019.
 
 | *Seminars and Colloquia*
